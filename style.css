@@ -1,0 +1,13 @@
+.btn, .btn .btn_success, .btn .btn_alert, .btn .btn_cancel {
+  width: 100px;
+  text-align: center;
+  padding: 5px 0;
+  margin: 2px auto;
+  border-radius: 2px;
+  color: white; }
+  .btn .btn_success {
+    background-color: #70703b; }
+  .btn .btn_alert {
+    background-color: red; }
+  .btn .btn_cancel {
+    background-color: blue; }
